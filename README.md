@@ -1,2 +1,1 @@
-# class0501
-123
+"# djangobot" 
